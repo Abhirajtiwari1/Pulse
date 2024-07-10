@@ -12,7 +12,7 @@ Pulse is an AI platform designed to automate online tasks for visually impaired 
 
 ## Installation
 
-To install and run Pulse, follow these steps:
+To install and test the Pulse AI assistant, follow these steps:
 
 1. **Clone the repository:**
     ```sh
@@ -30,28 +30,6 @@ To install and run Pulse, follow these steps:
     ```sh
     pip install -r requirements.txt
     ```
-
-4. **Run the development server:**
-    ```sh
-    python manage.py runserver
-    ```
-
-5. **Access the platform:**
-    Open a web browser and navigate to `http://127.0.0.1:8000/`.
-
-## Usage
-
-1. **Sign Up / Log In:**
-    - Create a new account or log in with existing credentials to access the platform.
-  
-2. **Voice Commands:**
-    - Use voice commands to navigate through the platform and perform tasks. Examples of commands can be found in the user manual.
-
-3. **Automated Tasks:**
-    - Set up and manage automated tasks through the user interface. Customize task parameters and schedules as needed.
-
-4. **Personal Assistant:**
-    - Utilize the personal assistant for various daily activities, including managing emails, setting reminders, and interacting with social media.
 
 ## Testing the Voice-Controlled AI Assistant
 
