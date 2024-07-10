@@ -52,7 +52,7 @@ Currently Pulse is at a ideation and development phase. Here are some glimpse of
 
 ## Future Aspects Of Pulse:
 ## 1.Development Of A Interactive Frontend:
-![Pulse Demo](frontend.mp4)
+![Pulse Demo](frontend.png)
 
 
 
