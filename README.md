@@ -44,3 +44,8 @@ You can install these libraries using pip:
 
 ```sh
 pip install SpeechRecognition pyttsx3
+
+
+## Testing And Development Phase
+
+
