@@ -50,5 +50,8 @@ Currently Pulse is at a ideation and development phase. Here are some glimpse of
 ![Voice Command Interaction](picture1.png) 
 ![Task Automation](automation.png)
 
+## Future Aspects Of Pulse:
+# Development Of A Interactive Frontend:
+
 
 
