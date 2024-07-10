@@ -48,7 +48,8 @@ pip install SpeechRecognition pyttsx3
 ## Testing And Development Phase
 Currently Pulse is at a ideation and development phase. Here are some glimpse of my project: 
 ![Voice Command Interaction](picture1.png) 
-
-*Description: Demonstrating how Pulse responds to voice commands.*
+*Demonstrating how Pulse responds to voice commands.* 
+![Task Automation]()
+*Showing automated task execution by Pulse.*
 
 
