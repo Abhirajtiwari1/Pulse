@@ -51,7 +51,8 @@ Currently Pulse is at a ideation and development phase. Here are some glimpse of
 ![Task Automation](automation.png)
 
 ## Future Aspects Of Pulse:
-# Development Of A Interactive Frontend:
+## 1.Development Of A Interactive Frontend:
+![Pulse Demo](frontend.mp4)
 
 
 
