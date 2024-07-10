@@ -53,45 +53,16 @@ To install and run Pulse, follow these steps:
 4. **Personal Assistant:**
     - Utilize the personal assistant for various daily activities, including managing emails, setting reminders, and interacting with social media.
 
-## Contributing
+## Testing the Voice-Controlled AI Assistant
 
-Contributions to Pulse are welcome! To contribute:
+To test the voice-controlled AI assistant, ensure the following Python libraries are installed:
 
-1. **Fork the repository:**
-    Click the "Fork" button on the GitHub page.
+- `SpeechRecognition`
+- `pyttsx3`
+- `webbrowser`
+- `os`
 
-2. **Clone your fork:**
-    ```sh
-    git clone https://github.com/your-username/pulse.git
-    cd pulse
-    ```
+You can install these libraries using pip:
 
-3. **Create a branch:**
-    ```sh
-    git checkout -b feature-branch
-    ```
-
-4. **Make your changes:**
-    Implement your feature or bug fix.
-
-5. **Commit and push:**
-    ```sh
-    git add .
-    git commit -m "Description of your changes"
-    git push origin feature-branch
-    ```
-
-6. **Create a Pull Request:**
-    Submit a pull request with a description of your changes for review.
-
-## License
-
-Pulse is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Contact
-
-For any questions or suggestions, please open an issue or contact the project maintainers at [your-email@example.com].
-
----
-
-By using Pulse, empower visually impaired individuals to achieve greater independence and efficiency in their online interactions. Together, let's make the web a more accessible place for everyone.
+```sh
+pip install SpeechRecognition pyttsx3
