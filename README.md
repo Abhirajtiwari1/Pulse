@@ -49,7 +49,7 @@ pip install SpeechRecognition pyttsx3
 Currently Pulse is at a ideation and development phase. Here are some glimpse of my project: 
 ![Voice Command Interaction](picture1.png) 
 *Demonstrating how Pulse responds to voice commands.* 
-![Task Automation]()
+![Task Automation](automation.png)
 *Showing automated task execution by Pulse.*
 
 
