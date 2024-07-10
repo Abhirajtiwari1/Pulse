@@ -54,11 +54,30 @@ Currently Pulse is at a ideation and development phase. Here are some glimpse of
 **1.Development Of A Interactive Frontend:**
 ![Pulse Demo](frontend.png)
 
-## Contribution
-**Fork The Repository**
+## Contribution 
+Contributions to Pulse are welcome! To contribute:
+1. **Fork The Repository**
+2. **Clone**:
 ```sh
 git clone https://github.com/your-username/pulse.git
 cd pulse
 ```
-
+3.**Create A Branch**:
+```sh
+git checkout -b feature-branch
+```
+4.**Make Your Changes**:
+Implement your feature or bug fix.
+**Commit And Push**:
+```sh
+git add .
+git commit -m "Description of your changes"
+git push origin feature-branch
+```
+5.**Create A Pull Request**
+```sh
+git add .
+git commit -m "Description of your changes"
+git push origin feature-branch
+```
 
